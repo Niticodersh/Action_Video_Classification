@@ -1,6 +1,7 @@
 streamlit
 random
-torch
+-f https://data.pyg.org/whl/torch-1.13.0+cpu.html
+torch-scatter
 torchvision
 numpy
 opencv-python
