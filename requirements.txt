@@ -1,7 +1,6 @@
 streamlit
 random
 torch
-torch-scatter 
 torchvision
 numpy
 opencv-python
